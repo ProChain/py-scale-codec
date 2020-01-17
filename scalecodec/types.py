@@ -1194,6 +1194,7 @@ class SessionKeysSubstrate(Struct):
         ('grandpa', 'AccountId'),
         ('babe', 'AccountId'),
         ('im_online', 'AccountId'),
+        ('authority-discovery','AccountId')
     )
 
 class LegacyKeys(Struct):
