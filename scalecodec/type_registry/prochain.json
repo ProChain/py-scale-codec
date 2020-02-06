@@ -2,7 +2,6 @@
   "default": {
     "Did":"Vec<u8>",
     "BlockNumber": "U32",
-    "Index": "U64",
     "ExternalAddress":{
       "type":"struct",
       "type_mapping":[
